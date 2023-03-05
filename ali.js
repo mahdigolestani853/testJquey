@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    alert("salams");
+    alert("hello mohammad");
 })
